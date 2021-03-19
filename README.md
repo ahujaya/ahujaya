@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yash Ahuja
-- 👀 I’m interested in applications of data analytics in solving real-world problems.
-- 🌱 I am proficient in data analytical tools such as Python, SQL, Tableau, R, PowerBI, RapidMiner. I’m currently learning about AWS, Azure, GCP cloud computing platforms.
+- 👀 I’m interested in applications of data analytics for solving real-world problems.
+- 🌱 I am proficient in data analytical tools such as Python, SQL, Tableau, R, PowerBI, RapidMiner. I’m currently learning about AWS, Azure and GCP cloud computing platforms.
 - 💞️ I’m looking to collaborate on data analytics and data science projects.
 - 📫 How to reach me : email: ahuja.yash13@gmail.com
 
