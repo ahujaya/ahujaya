@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yash Ahuja
 - 👀  I am very passionate about the applications of data analytics in solving real-world problems and thereby helping public and private sector organizations across the world in        making data-driven evidence-based decisions.
-- 🌱 I am proficient in data analytical tools such as Python, SQL, Google Cloud Platform {BigQuery ML, Google Data Studio}, PowerBI, R, Tableau, RapidMiner
+- 🌱 I am proficient in data analytical tools such as Python, SQL, Google Cloud Platform {BigQuery ML, Google Data Studio}, PowerBI, R, Tableau, RapidMiner, MS-Excel/Google Sheets
 - 💞️ I’m always available to collaborate on data analytics and data science projects.
 - 📫 How to reach me --> Email: ahuja.yash13@gmail.com
 
